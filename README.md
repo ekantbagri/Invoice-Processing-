@@ -1,1 +1,1 @@
-
+We took a bunch of invoice with a pre-existing dataset, read the image through a CNN feature extractor and extracted all the key- pair details of the invoices for the better and fast collection of data! 
